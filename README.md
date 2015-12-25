@@ -8,6 +8,8 @@ Download this database and change the config in your distribution of Turbo Meme 
 Will update when database is completely set up.
 
 ## Templates
+Instead of bothering to read this section, you can use the [template designer](https://github.com/Chaquator/turbo-meme-generator-template-designer) to make the templates with ease!.
+
 ### Filenaming scheme
 Looks like: `1,2,3,4,5,6,7;1,2,3,4,5,6,7`
 
