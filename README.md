@@ -5,7 +5,15 @@ Download this database and change the config in your distribution of Turbo Meme 
 # Database guidelines
 ## General tag guidelines
 ### Our current tags
-Will update when database is completely set up.
+- reaction
+- misc
+- food
+- animal
+- lifehack
+- meme (neglected, most likely to be removed soon)
+- face (neglected, most likely to be removed soon)
+- any (reserved keyword for the accepted tags, _not for simages_)
+- none (reserved keyword for the blacklisted tags, _not for simages_)
 
 ## Templates
 Instead of bothering to read this section, you can use the [template designer](https://github.com/Chaquator/turbo-meme-generator-template-designer) to make the templates with ease!.
