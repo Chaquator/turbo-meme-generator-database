@@ -38,6 +38,7 @@ Looks like: `1,2.extension`
 
 A real-world example: `sponge2,reaction.jpg`
 
+- Make sure that there __IS NOT__ a space between the comma and the first tag!
 - Can be any extension (`.png`, `.jpg`, whatever [Pillow](https://python-pillow.github.io/) support—know that `.gif` ends up only with its first frame being used, though)
 - What the numbers mean
 	1. Name to differentiate between simages with the same tags
