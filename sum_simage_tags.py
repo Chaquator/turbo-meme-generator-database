@@ -33,9 +33,9 @@ for i in listDir:
 Files = ""
 for n in range(len(types)):
     idkStr = ("\n" if n != (len(types) - 1) or len(trouble) > 0 else "")
-    Files += "-" + str("\"" + types[n]) + "\" with " + str(numtype[n]) + " files" + idkStr
+    Files += "- " + str("\"" + types[n]) + "\" with " + str(numtype[n]) + " files" + idkStr
 
-print("Different tags in there:\n" + Files, end = "")
+print(Files, end = "")
 
 if len(trouble) > 0:
     print("Also, these files are trouble!:\n" + "\n".join(trouble), end = "")
