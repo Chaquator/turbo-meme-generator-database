@@ -11,6 +11,7 @@ Download this database and change the config in your distribution of Turbo Meme 
 - "food" with 106 files
 - "animal" with 135 files
 - "lifehack" with 61 files
+
 #### Templates
 - "animal" with 8 templates
 - "any" with 192 templates
