@@ -5,11 +5,17 @@ Download this database and change the config in your distribution of Turbo Meme 
 # Database guidelines
 ## General tag guidelines
 ### Our current tags
+#### Simages
 - "reaction" with 732 files
 - "misc" with 159 files
 - "food" with 106 files
 - "animal" with 135 files
 - "lifehack" with 61 files
+#### Templates
+- "animal" with 8 templates
+- "any" with 192 templates
+- "food" with 2 templates
+- "reaction" with 73 templates
 
 ## Templates
 Instead of bothering to read this section, you can use the [template designer](https://github.com/Chaquator/turbo-meme-generator-template-designer) to make the templates with ease!.
