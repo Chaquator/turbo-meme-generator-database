@@ -6,15 +6,15 @@ Download this database and change the config in your distribution of Turbo Meme 
 ## General tag guidelines
 ### Our current tags
 #### Simages
-- "reaction" with 732 files
-- "misc" with 159 files
-- "food" with 106 files
-- "animal" with 135 files
-- "lifehack" with 61 files
+- "reaction" with 747 simages
+- "misc" with 181 simages
+- "food" with 106 simages
+- "animal" with 151 simages
+- "lifehack" with 72 simages
 
 #### Templates
 - "animal" with 8 templates
-- "any" with 192 templates
+- "any" with 193 templates
 - "food" with 2 templates
 - "reaction" with 73 templates
 
